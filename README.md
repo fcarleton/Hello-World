@@ -1,2 +1,2 @@
 # Hello-World
-created to learn morerabout Github via the guide
+created to learn more about Github via the guide
